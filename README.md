@@ -2,9 +2,9 @@
 # 两种模式反弹方式需要nc支持 ，互联网需要公网地址支持
 # 写入文件模式为通过写入文件回显命令执行结果
 
-![image](https://raw.githubusercontent.com/bigsizeme/CNVD-C-2019-48814/master/repng.png)
+![image](https://raw.githubusercontent.com/bigsizeme/CNVD-C-2019-48814/master/ls.png)
 
-![image](https://raw.githubusercontent.com/bigsizeme/CNVD-C-2019-48814/master/wr.png)
+![image](https://raw.githubusercontent.com/bigsizeme/CNVD-C-2019-48814/master/eww.png)
 
 [下载链接]https://github.com/bigsizeme/CNVD-C-2019-48814/blob/master/weblogic-rce-gui.exe
 
