@@ -6,7 +6,7 @@
 
 ![image](https://raw.githubusercontent.com/bigsizeme/CNVD-C-2019-48814/master/wr.png)
 
-[下载链接]https://github.com/bigsizeme/CNVD-C-2019-48814/blob/master/weblogic-gui.exe
+[下载链接]https://github.com/bigsizeme/CNVD-C-2019-48814/blob/master/weblogic-rce-gui.exe
 
 根据版本不同写入路径会有变化，以后有机会更新
 ps:互联网不太好用
